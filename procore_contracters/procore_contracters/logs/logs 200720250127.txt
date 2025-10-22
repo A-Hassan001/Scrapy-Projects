@@ -1,0 +1,2 @@
+INFO: Scrapy 2.12.0 started (bot: procore_contracters)
+INFO: Versions: lxml 5.3.2.0, libxml2 2.11.9, cssselect 1.3.0, parsel 1.10.0, w3lib 2.3.1, Twisted 24.11.0, Python 3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 64 bit (AMD64)], pyOpenSSL 25.0.0 (OpenSSL 3.4.1 11 Feb 2025), cryptography 44.0.2, Platform Windows-10-10.0.19045-SP0
